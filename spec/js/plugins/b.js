@@ -1,0 +1,2 @@
+B;
+//= inline plugins/c
