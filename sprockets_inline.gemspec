@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = SprocketsInline::VERSION
   s.authors     = ["Euge Gimelberg"]
   s.email       = ["eugegim@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/euge/sprockets_inline"
   s.summary     = "Sprockets processor to inline JavaScripts"
   s.description = "SprocketsInline provides a Sprockets directive processor for inlining JavaScripts"
 
